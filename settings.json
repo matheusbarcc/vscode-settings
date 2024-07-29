@@ -1,0 +1,29 @@
+{
+    "workbench.iconTheme": "symbols",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
+    "symbols.hidesExplorerArrows": false,
+    "workbench.colorTheme": "Min Dark",
+    "editor.fontFamily": "Cascadia code",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontFamily": "Cascadia code",
+    "terminal.integrated.gpuAcceleration": "on",
+    "[prisma]": {
+        "editor.formatOnSave": true
+    },
+    "cSpell.enabled": false,
+    "files.eol": "\n",
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
