@@ -4,11 +4,18 @@
         "source.fixAll.eslint": "always"
     },
     "symbols.hidesExplorerArrows": false,
-    "workbench.colorTheme": "Min Dark",
+    "workbench.colorTheme": "Flate Arc",
     "editor.fontFamily": "Cascadia code",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
-    "editor.rulers": [80, 120],
+    "editor.rulers": [{
+        "column": 80,
+        "color": "#333333"
+      },
+      {
+        "column": 120,
+        "color": "#333333"
+      },],
     "editor.renderLineHighlight": "gutter",
     "editor.fontLigatures": true,
     "workbench.editor.labelFormat": "short",
@@ -25,5 +32,14 @@
     },
     "cSpell.enabled": false,
     "files.eol": "\n",
-    "typescript.updateImportsOnFileMove.enabled": "always"
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorCustomizations": {
+        "[Flate Arc]": {
+            "activityBar.foreground": "#d6d6d6",
+            "activityBar.activeBorder": "#d6d6d6",
+            "activityBarBadge.background": "#ffb381",
+        },
+    },
+    "window.titleBarStyle": "custom"
 }
