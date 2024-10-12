@@ -4,7 +4,7 @@
         "source.fixAll.eslint": "always"
     },
     "symbols.hidesExplorerArrows": false,
-    "workbench.colorTheme": "Flate Arc",
+    "workbench.colorTheme": "GitHub Dark Default",
     "editor.fontFamily": "Cascadia code",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
@@ -24,13 +24,12 @@
     "breadcrumbs.enabled": false,
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.fontFamily": "Cascadia code",
     "terminal.integrated.gpuAcceleration": "on",
     "[prisma]": {
         "editor.formatOnSave": true
     },
-    "cSpell.enabled": false,
     "files.eol": "\n",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "explorer.confirmDragAndDrop": false,
